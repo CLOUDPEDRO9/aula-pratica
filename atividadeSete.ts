@@ -1,5 +1,5 @@
 /*
-Nome: Pedro Henrique de Oliveri Alves
+Nome: Pedro Henrique de Oliveira Alves
 
 */
 let x: number =0;
